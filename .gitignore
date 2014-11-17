@@ -1,6 +1,8 @@
 *.dll
 UpgradeLog.htm
 vc120.idb
+pthread.dsp
+pthread.dsw
 *.log
 pthread.tlog/
 Backup/
