@@ -4,6 +4,9 @@ vc120.idb
 pthread.dsp
 pthread.dsw
 *.log
+*.lib
+*.obj
+*.o
 pthread.tlog/
 Backup/
 builddmc.bat
