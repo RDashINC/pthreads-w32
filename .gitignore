@@ -1,0 +1,8 @@
+*.dll
+UpgradeLog.htm
+vc120.idb
+*.log
+pthread.tlog/
+Backup/
+builddmc.bat
+*.sdf
